@@ -1,7 +1,5 @@
 # Hi, I'm Valentyn Hrytsuk 👋
 
-# This is the way
-
 ![The Way](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJpZzN4MDJ2dW4xcGRwZmgycHFidWFzaDd2bWR6d3ZuYTdnMWp5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6UFgdU9hirj1pAOJyN/giphy.gif)
 
 # 💫 About Me:
