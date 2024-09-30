@@ -1,5 +1,7 @@
 # Hi, I'm Valentyn Hrytsuk 👋
 
+![Amazing animation](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
+
 # 💫 About Me:
 I'm a Front-end developer with over 5 years of experience.<br>As a certified Frontend Developer, I am passionate about creating engaging and responsive<br>solutions. I strive to constantly learn and develop my skills, staying up-to-date with the latest<br>industry trends and technologies. 
 
